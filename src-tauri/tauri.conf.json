@@ -41,6 +41,7 @@
         "unminimize": false
       }
     },
+    "macOSPrivateApi": true,
     "bundle": {
       "active": true,
       "category": "DeveloperTool",
